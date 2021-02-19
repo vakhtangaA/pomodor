@@ -2,6 +2,7 @@ import React from "react";
 import "./App.css";
 import TimeControl from "./components/TimeControl";
 import Timer from "./components/Timer";
+import "../node_modules/font-awesome/css/font-awesome.min.css";
 
 class App extends React.Component {
   constructor(props) {
